@@ -19,6 +19,12 @@ const router = createBrowserRouter([
     path: "Dashbord",
     element: <Table2></Table2>,
   },
+  {
+    path: "Dashbord2",
+    element: <Table2></Table2>,
+  }
+  
+
 ]);
 function App() {
   
